@@ -1,8 +1,10 @@
 Formal Languages & Finite Automata Coursework
 Introduction to Formal Languages, Regular Grammars, and Finite Automata
 Course: Formal Languages & Finite Automata
-Authors: Cretu Dumitru with acknowledgments to Vasile Drumea and Irina Cojuhari
-Overview
+Authors: Covalenco Alexandr 
+
+
+--Overview--
 A formal language is a medium or format used to convey information from a sender to a receiver. The primary components of a language include:
 
 The Alphabet: A set of valid characters.
